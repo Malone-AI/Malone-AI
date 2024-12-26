@@ -15,6 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malone-AI)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malone-AI)
+<!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malone-AI)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malone-AI)-->
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Malone-AI)
+
+![](https://stats.justsong.cn/api/leetcode?username=quanpeng&cn=true)
+
 
