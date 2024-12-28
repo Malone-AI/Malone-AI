@@ -16,6 +16,7 @@ jobs:
       - uses: lowlighter/metrics@latest
         with:
           # Your GitHub token
+          token: ${{ secrets.METRICS_TOKEN }}
           # The following scopes are required:
           #  - public_access (default scope)
           # The following additional scopes may be required:
@@ -23,7 +24,6 @@ jobs:
           #  - read:user     (for user related data)
           #  - read:packages (for some packages related data)
           #  - repo          (optional, if you want to include private repositories)
-          token: ${{ secrets.METRICS_TOKEN }}
 
           # Options
           user: Malone-AI
