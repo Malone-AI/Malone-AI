@@ -1,23 +1,25 @@
+<!--
 ## Hi there 👋
 
-<!--
+
 **Malone-AI/Malone-AI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
--->
 
 - 🔭 I’m currently majoring in AI
 - 🌱 I’m currently learning AI
-<!--- 👯 I’m looking to collaborate on ...-->
+- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with Linux
 - 💬 Ask me about Python or Artifical Intelligence
 - 📫 How to reach me: favorite.vampire@qq.com
-<!-- - 😄 Pronouns: ...
+ - 😄 Pronouns: ...
 - ⚡ Fun fact: ... -->
 
 <!--![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Malone-AI)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Malone-AI)-->
-###
+![Metrics](github-metrics.svg)
+
+
 <h3 align="left">🛠 Languages and tools</h3>
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
@@ -30,14 +32,6 @@ Here are some ideas to get you started:
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vim/vim-original.svg" height="40" alt="vim logo"  />
 </div>
-###
-
-![Metrics](/github-metrics.svg)
 
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Malone-AI&theme=dark)
-
-<!--![](https://stats.justsong.cn/api/leetcode/?username=Malone-AI&theme=dark)-->
-
-<!--![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Malone-AI&theme=dark)-->
-
